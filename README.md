@@ -1,0 +1,1 @@
+# odoo-submodule-hello-word
